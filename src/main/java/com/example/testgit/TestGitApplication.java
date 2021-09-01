@@ -4,10 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+
 public class TestGitApplication {
 
     public static void main(String[] args) {
-        int x = 23;
+        int x = 222;
+        int x2 = 32;
         SpringApplication.run(TestGitApplication.class, args);
     }
 
